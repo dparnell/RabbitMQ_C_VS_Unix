@@ -1,0 +1,24 @@
+==============================================================================
+  Rabbit MQ C Client using ANSI C
+==============================================================================
+
+Status date: 2010-06-24
+
+DONE:
+
+1. #ifdef'ed all occurrences of GNU specific code in all .c and .h files
+
+TODO:
+
+1. Change codegen.py to generate ANSI C conforming code:
+   - eliminate all "({" and "})" occurrences by replacing C macro "calls"
+     with real function calls.
+
+2. Run codegen.py to generate new versions of amqp_framing.[ch] .
+
+3. Compile, debug, compile, debug, ...
+
+Cheers
+  Frank
+
+
