@@ -16,7 +16,10 @@ TODO:
 
 2. Run codegen.py to generate new versions of amqp_framing.[ch] .
 
-3. Compile, debug, compile, debug, ...
+3. Integrate "process.c" from bugxxxxxx branch
+
+And then:
+Compile, debug, compile, debug, ...
 
 Cheers
   Frank
