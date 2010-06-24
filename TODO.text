@@ -18,6 +18,8 @@ TODO:
 
 3. Integrate "process.c" from bugxxxxxx branch
 
+4. Create Visual Studio Solution using the modified files
+
 And then:
 Compile, debug, compile, debug, ...
 
